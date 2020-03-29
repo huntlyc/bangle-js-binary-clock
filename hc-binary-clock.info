@@ -1,0 +1,5 @@
+{
+    "name": "Binary Clock Watch Face",
+    "src": "hc-binary-clock.app.js",
+    "icon": "hc-binary-clock.img"
+}
